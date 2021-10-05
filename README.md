@@ -1,2 +1,2 @@
 # hellow-world
-subhransuz code world
+Hi, this is Student Subhransu to learn and earn.
